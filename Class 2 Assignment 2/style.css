@@ -1,0 +1,19 @@
+h1{
+    color:darkblue;
+    margin-left:10px;
+    text-shadow:10px;
+}
+body{
+    background-color:rgb(216, 215, 215);
+    font-family:'Open Sans', sans-serif;
+    max-width: 1000px;
+    text-align:center;
+    margin-left: 100px;
+    color:#000000;
+}
+p{
+    font-size:20;
+}
+h2{
+    margin-left: 10px;
+}
